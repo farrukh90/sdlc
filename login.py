@@ -1,1 +1,1 @@
-input("please enter your DOB: e.g 01.01.2020")
+input("please enter your DOB: e.g 01/01/2020")
